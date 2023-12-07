@@ -1,22 +1,23 @@
-Welcome to Lumache's documentation!
-===================================
+Welcome to Jubler's documentation!
+==================================
+Welcome to complete beginner's guido to Jubler! 
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Who is this course for?**
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+If you're completetely new to Jubler, :ref:`install Jubler first <settingup>`  and then explore this pages:
 
-.. note::
-
-   This project is under active development.
-
-Contents
---------
+ Creating Subtitles
+ Customizing Subtitles
+ Saving and Exporting Subtitles
 
 .. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+   
+   beforeyoubegin
 
-   usage
-   api
+.. toctree::
+   :maxdepth: 2
+   :caption: Beginers
+
+   creating
