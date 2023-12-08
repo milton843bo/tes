@@ -34,7 +34,7 @@ To create a new subtitling project:
 
 Importin Subtitle from a External File
 --------------------------------------
-If you already have your subtitles typed out in a text file, you can import the file into Jubler.
+If you already have your subtitles typed out in a text file, you can import the file into JUBLER.
 
 
 
