@@ -30,7 +30,7 @@ To create a new subtitling project:
    By defalut
  
 
-.. |newbutton| image:: /images/new_button.PNG
+.. |newbutton| image:: /images/new_button.png
 
 Importin Subtitle from a External File
 --------------------------------------
@@ -38,7 +38,6 @@ If you already have your subtitles typed out in a text file, you can import the 
 
 
 
-.. image:: /images/import_file.PNG
-
+.. image:: /images/import_file.png
 
 
