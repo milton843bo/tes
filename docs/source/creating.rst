@@ -30,7 +30,7 @@ To create a new subtitling project:
    By defalut
  
 
-.. |newbutton| image:: /images/new_button.png
+.. |newbutton| figure:: /images/new_button.png
 
 Importin Subtitle from a External File
 --------------------------------------
