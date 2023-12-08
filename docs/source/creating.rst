@@ -38,6 +38,6 @@ If you already have your subtitles typed out in a text file, you can import the 
 
 
 
-.. image:: ixmport_file.png
+.. image:: import_file.png
 
 
